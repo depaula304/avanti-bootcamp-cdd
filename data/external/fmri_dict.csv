@@ -1,0 +1,6 @@
+variavel,descricao,tipo,subtipo
+subject,A pessoa em que foi realizado o exame,qualitativa,nominal
+timepoint,Período no tempo em que foi feito o exame,qualitativa,ordinal
+event,Forma como o cérebro foi estimulado para coleta de dados,qualitativa,nominal
+region,Região do cérebro examinada,qualitativa,nominal
+signal,Representa a atividade cerebral na região determinada,quantitativa,contínua
